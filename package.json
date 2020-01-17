@@ -1,0 +1,14 @@
+{
+  "name": "hsbc-statement-pdf2json",
+  "version": "0.0.1",
+  "description": "An simple Script to convert HSBC UK PDF Statements to CSV",
+  "main": "hsbc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Neal",
+  "license": "ISC",
+  "dependencies": {
+    "pdf2json": "^1.1.8"
+  }
+}
